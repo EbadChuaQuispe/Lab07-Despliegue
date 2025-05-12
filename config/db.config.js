@@ -1,10 +1,11 @@
 export default  {
-    HOST: "localhost",
-    USER: "root",
-    PASSWORD: "",           // Asegúrate de poner tu contraseña real si aplica
-    DB: "db",               // Cambia "db" por el nombre de tu base de datos
-    PORT: 3306,
-    dialect: "mysql",
+
+  HOST: "dpg-d0gmd8adbo4c73bhcsdg-a",
+  USER: "lab07_ko8h_user",
+  PASSWORD: "JT3gsWScynhsjx2h70hzsNSYDffbeaMi",
+  DB: "lab07_ko8h",
+  dialect: "mysql",
+
     pool: {
       max: 5,
       min: 0,
