@@ -4,7 +4,7 @@ export default  {
   USER: "lab07_ko8h_user",
   PASSWORD: "JT3gsWScynhsjx2h70hzsNSYDffbeaMi",
   DB: "lab07_ko8h",
-  dialect: "mysql",
+  dialect: "postgres",
 
     pool: {
       max: 5,
